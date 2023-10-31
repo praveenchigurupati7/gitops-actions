@@ -4,4 +4,5 @@ resources:
 - deployment.yaml
 - service.yaml
 
-namePrefix: nginx-deployment
+namePrefix: nginx
+nameSuffix: -deployment
